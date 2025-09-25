@@ -2,7 +2,7 @@
 
 ## **Este es un framework que cualquier comunidad puede usar a su manera y modificarlo a su composición y necesidades.** 
 
-**Sugerimos buscar tener los siguientes cómites:** 
+**Sugerimos buscar tener los siguientes cómites:**
 
 ## 1\. Comité de Programación (Ponentes)
 
@@ -61,23 +61,23 @@
 * Dejar el lugar en las condiciones en las que fueron entregadas.  
 * Levantar un breve reporte post-evento (qué salió bien, qué mejorar).
 
-6\. Comité de Código de Conducta
+## 6\. Comité de Código de Conducta
 
 **Este comité es el encargado de velar por el cumplimiento del Código de Conducta de la comunidad, garantizando que los espacios sean seguros, inclusivos y respetuosos para todas las personas de la comunidad, además de gestionar de manera empática y efectiva cualquier incidente presentado. Este comité puede ser liderado por tres o más personas de la comunidad. A continuación detallamos tareas que son prioridad para este comité:**
 
-* Antes del evento:  
+* **Antes del evento:**  
   * Difundir el **Código de Conducta** en las inscripciones y comunicaciones.  
   * Establecer un **protocolo de incidentes** (inspirado en [PyLadies](https://www.pyladies.co/coc) y [Python Colombia](https://www.python.org.co/codigo-de-conducta/)).  
   * Definir y comunicar canales de reporte (correo, persona de contacto, formulario anónimo).  
-* Durante el evento:  
+* **Durante el evento:**  
   * Estar disponibles y visibles para escuchar a cualquier persona.  
   * Recibir reportes de incidentes con empatía y confidencialidad.  
   * Actuar según el protocolo: mediación, advertencia, expulsión si es necesario.  
   * En caso de tener incidentes, informar sobre las acciones tomadas a los participantes del evento manteniendo confidencialidad de los afectados.  
-* Después del evento:  
+* **Después del evento:**  
   * Evaluar si hubo incidentes y cómo se resolvieron.  
   * Hacer un breve reporte al equipo organizador (sin exponer datos sensibles).  
-  *  Reforzar mejoras y protocolos para el siguiente evento.
+  * Reforzar mejoras y protocolos para el siguiente evento.
 
 **Nota importante:** Aunque se establece un Comité de Código de Conducta, es fundamental que todas las personas involucradas en la organización del evento conozcan su contenido y sepan cómo proceder ante cualquier incidente que presencien o que les sea reportado. El objetivo es garantizar que cualquier situación se maneje siempre de acuerdo con los protocolos establecidos, promoviendo un ambiente seguro, respetuoso e inclusivo para toda la comunidad.
 
